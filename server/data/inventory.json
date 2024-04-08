@@ -1,0 +1,27 @@
+[
+  {
+    "name": "The Great Gatsby",
+    "stock": 10,
+    "BukuId": 1
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "stock": 15,
+    "BukuId": 2
+  },
+  {
+    "name": "1984",
+    "stock": 11,
+    "BukuId": 3
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "stock": 7,
+    "BukuId": 4
+  },
+  {
+    "name": "Pride and Prejudice",
+    "stock": 5,
+    "BukuId": 5
+  }
+]

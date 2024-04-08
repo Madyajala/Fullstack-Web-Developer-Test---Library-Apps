@@ -1,0 +1,22 @@
+ [
+    {
+      "name": "John Doe",
+      "major": "Teknik Informatika"
+    },
+    {
+      "name": "Jane Smith",
+      "major": "Ilmu Komputer"
+    },
+    {
+      "name": "Michael Johnson",
+      "major": "Sistem Informasi"
+    },
+    {
+      "name": "Emily Brown",
+      "major": "Teknik Elektro"
+    },
+    {
+      "name": "Daniel Lee",
+      "major": "Teknik Industri"
+    }
+  ]
